@@ -5,4 +5,4 @@
 ```
 https://ashyaa.medium.com/making-a-nested-accordion-in-react-from-json-7d307b038f84#4d2b
 ```
-
+<pre><div align="center"><img witdh="200" height="300" src="json.jpg"/>  <img witdh="200" height="300" src="accord.jpg"/> </div></pre>
