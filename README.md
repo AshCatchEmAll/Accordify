@@ -1,4 +1,4 @@
-<div align="center">Accordify</div>
+<div align="center"><h1>Accordify</h1></div>
 <div><h3>Making Nested accordion in React from JSON</h3></div>
 <div><h3>Read more about it on this post</h3></div>
 
